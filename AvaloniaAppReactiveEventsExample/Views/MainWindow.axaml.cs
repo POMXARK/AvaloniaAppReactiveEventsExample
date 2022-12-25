@@ -3,6 +3,7 @@ using Avalonia.Input;
 using System.Diagnostics;
 using System.Reactive.Linq;
 using System;
+using ReactiveMarbles.ObservableEvents;
 
 namespace AvaloniaAppReactiveEventsExample.Views
 {
